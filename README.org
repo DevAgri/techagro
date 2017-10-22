@@ -1,15 +1,9 @@
 #+TITLE: Tech Agro
 
-* Integrantes
-
 * Produto
 
   Equipamento para monitoramento de teor de úmidade do solo. É equipado com
   módulo bluetooth para transmissão dos valores medidos.
-
-* Como funciona
-
-  O 
 
 * Tecnologia
 
