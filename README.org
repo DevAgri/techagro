@@ -1,0 +1,26 @@
+#+TITLE: Tech Agro
+
+* Integrantes
+
+* Produto
+
+  Equipamento para monitoramento de teor de úmidade do solo. É equipado com
+  módulo bluetooth para transmissão dos valores medidos.
+
+* Como funciona
+
+  O 
+
+* Tecnologia
+
+  - Placa Arduino Mega 2560 R3
+  - Arduino IDE 1.8.5
+  - Módulo Bluetooth HC-06
+  - Sensor de úmidade do solo
+  - Aplicativo Android [[https://play.google.com/store/apps/details?id=mobi.dzs.android.BLE_SPP_PRO][Bluetooth spp tools pro]] (Para visualizar o valor da
+    úmidade)
+
+* Licença
+
+  O Projeto está sob licença [Apache
+  2.0](https://www.apache.org/licenses/LICENSE-2.0)
